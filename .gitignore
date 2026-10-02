@@ -1,0 +1,13 @@
+# Виртуальное окружение
+11_env/
+
+# База данных
+db.sqlite3
+
+# Кэш Python
+**/__pycache__/
+*.py[cod]
+
+# Настройки IDE (если используете PyCharm или VS Code)
+.idea/
+.vscode/
